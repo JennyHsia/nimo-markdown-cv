@@ -4,9 +4,7 @@ title: Guozhen "Jenny" Xia
 email:
   url: cerelia.xx@gmail.com
   text: cerelia.xx@gmail.com
-phone:
-  url: 13143405221
-  text: 13143405221
+phone: 13143405221
   
 ---
 
