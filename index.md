@@ -9,7 +9,6 @@ phone: 13143405221
 ---
 
 # Guozhen **Xia**
-### Android Developer 
 <!--
 include contact information from the front matter
 Supported arguments:
