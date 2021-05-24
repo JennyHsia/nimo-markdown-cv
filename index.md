@@ -50,7 +50,7 @@ Worked on Mobile QQ, Now Live, QQ Tribe and Kandian Video App projects.
 ### **Polarr Abum SDK** `2019.5 - Now`
 
 - Deploy SNPE/TensorFlow model to Android and postprocessed output data to make it visualization.
-- Use opencv on Android to process images with Jni call.
+- Refactor SDK repository, merge duplicated repo into one foundational project. Extract a base module for ai processing pipeline.
 - Implement highly customized product flavor that can generate different sdk for different clients in one project, and use shell script to build aars automatically.
 - Optimize memory cunsumption.
 
@@ -66,7 +66,7 @@ Worked on Mobile QQ, Now Live, QQ Tribe and Kandian Video App projects.
 
 - Responsible of refactoring QQ Tribe App, 
 - Design a collapsing toolbar layout in orgin code refer to CoordinateLayout source code,  controll the changes in a minimal influenced scope.
-- Optimize boot times and reduce lag.
+- Optimize boot times and reduce jank.
 
 
 ### **Moblie QQ** `2015.07 - 2017.09`
